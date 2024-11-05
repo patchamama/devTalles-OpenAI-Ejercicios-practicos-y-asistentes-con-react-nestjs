@@ -24,3 +24,17 @@ Puntualmente veremos:
 - React Markdown Component
 - Diseño de chat
 - Estructura del proyecto.
+
+### Inicio del proyecto - ReactGPT
+
+Crear el proyecto
+```sh
+npm create vite
+cd react-gpt
+npm install
+
+# Correr la aplicación  para ver sí funciona
+npm run dev
+````
+
+
