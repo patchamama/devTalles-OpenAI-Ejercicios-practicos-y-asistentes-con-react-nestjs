@@ -1,7 +1,7 @@
 
 export const ReactGPT = () => {
   return (
-    <h1>
+    <h1 className="text-xl underline">
       ReactGPT
     </h1>
   )
