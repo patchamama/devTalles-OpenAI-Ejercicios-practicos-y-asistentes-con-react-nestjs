@@ -1,1 +1,2 @@
-# devTalles-OpenAI-Ejercicios-practicos-y-asistentes-con-react-nestjs
+# devTalles: OpenAI. Ejercicios prácticos y asistentes con React + NestJS
+
