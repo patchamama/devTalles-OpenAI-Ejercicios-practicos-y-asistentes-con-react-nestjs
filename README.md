@@ -37,4 +37,23 @@ npm install
 npm run dev
 ````
 
+### Configurar TailwindCSS en react
 
+Referencias
+- https://tailwindcss.com/
+- [Estilos globales](https://gist.github.com/Klerith/d02b770a277c4e6c8753ac02fd752837)
+
+
+Visitar https://tailwindcss.com/docs/guides/vite y copiar comandos para instalar TailwindCSS:
+
+```sh
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
+
+### Rutas y páginas
+
+Referencias:
+- https://reactrouter.com
+- https://cdnjs.com/libraries/font-awesome
+- [Gist - Arreglo de Rutas](https://gist.github.com/Klerith/2601fd211b014551f3934defdecf1c73)
