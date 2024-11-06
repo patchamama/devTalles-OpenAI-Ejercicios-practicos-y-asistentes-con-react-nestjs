@@ -2,7 +2,7 @@
 
 Curso online [aquí](https://cursos.devtalles.com/courses/openai)
 
-Reto final después de terminar el proyecto:
+Reto final después de terminar el curso:
 - [ ] Agregar funcionalidades para el uso de OpenAI tal como corrección de textos en inglés.
 - [ ] Reprogramar el backend usando Deno y/o Burn
 - [ ] Reprogramar el backend usando flask y/o Django DRF
