@@ -1,5 +1,12 @@
 # devTalles: OpenAI. Ejercicios prácticos y asistentes con React + NestJS
 
+Reto final después de terminar el proyecto:
+- [ ] Agregar funcionalidades para el uso de OpenAI tal como corrección de textos en inglés.
+- [ ] Reprogramar el backend usando Deno y/o Burn
+- [ ] Reprogramar el backend usando flask y/o Django DRF
+- [ ] Reprogramar el frontend usando Astro y/o VueJS
+
+
 
 ## Sección 1: Introducción
 
@@ -10,7 +17,9 @@
 
 ## Sección 2: Frontend - Diseño y creación de la aplicación
 
+
 ### Temas puntuales de la sección
+
 
 Esta sección es totalmente opcional, ya que no veremos nada de OpenAI aún, está destinada a la creación del cascarón inicial de nuestro frontend en React.
 
