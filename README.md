@@ -17,9 +17,7 @@ Reto final después de terminar el proyecto:
 
 ## Sección 2: Frontend - Diseño y creación de la aplicación
 
-
-### Temas puntuales de la sección
-
+### Temas puntuales de la sección
 
 Esta sección es totalmente opcional, ya que no veremos nada de OpenAI aún, está destinada a la creación del cascarón inicial de nuestro frontend en React.
 
