@@ -1,5 +1,7 @@
 # devTalles: OpenAI. Ejercicios prácticos y asistentes con React + NestJS
 
+Curso online [aquí](https://cursos.devtalles.com/courses/openai)
+
 Reto final después de terminar el proyecto:
 - [ ] Agregar funcionalidades para el uso de OpenAI tal como corrección de textos en inglés.
 - [ ] Reprogramar el backend usando Deno y/o Burn
