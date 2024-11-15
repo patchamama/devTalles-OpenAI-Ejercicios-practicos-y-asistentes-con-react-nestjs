@@ -7,6 +7,7 @@ Reto final después de terminar el curso:
 - [ ] Reprogramar el backend usando Deno y/o Burn
 - [ ] Reprogramar el backend usando flask y/o Django DRF y/o FastAPI
 - [ ] Reprogramar el frontend usando Astro y/o VueJS
+- [ ] Reprogramar con Laravel / Lumen
 
 
 
